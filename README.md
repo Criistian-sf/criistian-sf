@@ -31,7 +31,7 @@ Sou Cristian Silva, tenho 26 anos, sou do Rio de Janeiro e estou cursando o prim
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="130" style
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=criistian-sf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
